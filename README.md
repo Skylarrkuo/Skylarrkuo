@@ -8,34 +8,16 @@ A fresh graduate stepping into the industry as an AI full-stack developer — tr
 
 Fortunately, the development experience I've built up makes the ramp-up manageable. At least I haven't hit the "how did I even get hired" panic — yet.
 
+- 🔭 Currently building **AI-powered full-stack applications** — from LLM integration to production deployment
+- 🌱 Always learning: **RAG, Agent frameworks, prompt engineering, system design**
+- 💬 Happy to chat about **AI/ML, web development, or anything tech**
+- ⚡ Fun fact: I failed the grad school entrance exam, pivoted to industry, and here I am
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=23F709&center=true&vCenter=true&width=600&lines=Slow%20is%20smooth%2C%20smooth%20is%20fast.;Talk%20is%20cheap.%20Show%20me%20the%20code!" alt="Typing SVG" />
   </a>
 </div>
-
----
-
-## ✨ What's on This Blog
-
-This blog started pretty casually — I first built it from someone else's source code, didn't get serious about writing until September 2025, then later refactored it into what you see now. So it's still a young blog with content growing steadily.
-
-Current content categories:
-
-- **Tech Notes**: Lessons learned at work, project retrospectives, and AI tech stack learning records (LLM applications, full-stack engineering, deployment practices)
-- **Engineering Practice**: The shift from "as long as it runs" to "maintainable and scalable" — architecture thinking, code standards, collaboration workflows, things they don't teach in school
-- **Workplace Observations**: Honest reflections from early career — understanding requirements, team communication, staying calm under deadlines (haven't fully mastered that one yet)
-- **Life & Thoughts**: Reading notes, random ideas, and musings outside of work — because life can't be all about code
-
-Not a huge volume yet, but every post is a genuine record. No sugarcoating, no anxiety-selling.
-
----
-
-## 🎯 Why This Blog Exists
-
-I started the blog just for fun. Then I realized that writing down the code I've written and the pitfalls I've hit is far clearer than just going over them in my head. It became a habit — whenever something worth recording comes up, I write it down. Not for traffic, just as a personal archive.
-
-From casual experiment to genuine commitment, this blog has been with me through the whole journey — failing the grad school entrance exam, landing an internship, and starting my first full-time job. Looking back someday, it should make for an interesting read.
 
 ---
 
@@ -45,6 +27,7 @@ From casual experiment to genuine commitment, this blog has been with me through
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -65,7 +48,6 @@ From casual experiment to genuine commitment, this blog has been with me through
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div>
-
 
 ---
 
@@ -92,17 +74,9 @@ From casual experiment to genuine commitment, this blog has been with me through
 
 <div align="center">
 
-If you're also a developer just starting out, or standing at the crossroads after graduation wondering what's next — I hope something here helps. We're all learning by doing. None of us has it all figured out.
-
-Thanks for stopping by. Feel free to leave a comment or reach out.
-
-**StarIn**
-
-*Finding a comfortable balance between code and life.*
-
 *Slow is smooth, smooth is fast.*
 
-*— Written for myself at the start of this journey, and for you passing through.*
+**StarIn**
 
 </div>
 
