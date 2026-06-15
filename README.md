@@ -11,7 +11,6 @@ Fortunately, the development experience I've built up makes the ramp-up manageab
 - 🔭 Currently building **AI-powered full-stack applications** — from LLM integration to production deployment
 - 🌱 Always learning: **RAG, Agent frameworks, prompt engineering, system design**
 - 💬 Happy to chat about **AI/ML, web development, or anything tech**
-- ⚡ Fun fact: I failed the grad school entrance exam, pivoted to industry, and here I am
 
 <div align="center">
   <a href="https://git.io/typing-svg">
